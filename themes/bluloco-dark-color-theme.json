@@ -155,6 +155,18 @@
     "textPreformat.foreground": "#CE9887",
     "textSeparator.foreground": "#3d434f",
     "editorPane.background": "#25272d",
+    "editorCodeLens.foreground": "#636d83",
+    // "editorCodeLens.foreground": "#636d83",
+    // "editorCodeLens.foreground": "#50acae",
+    // "gitlens.gutterBackgroundColor": "#0f0",
+    // "gitlens.gutterForegroundColor": "#ff0000",
+    // "gitlens.gutterUncommittedForegroundColor": "#ff0000",
+    // "gitlens.lineHighlightBackgroundColor": "#f00",
+    // "gitlens.lineHighlightOverviewRulerColor": "#ff0000",
+    // "gitlens.trailingLineBackgroundColor": "#285bff",
+    // "gitlens.trailingLineForegroundColor": "#636d83",
+    "gitlens.trailingLineForegroundColor": "#636d83"
+    // "gitlens.trailingLineForegroundColor": "#50acae"
   },
   "name": "Bluloco Dark"
 }
